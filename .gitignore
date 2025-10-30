@@ -211,3 +211,7 @@ __marimo__/
 tb_logs/
 checkpoints/
 .idea/
+
+# Custom
+data_snapshots/
+.github/
